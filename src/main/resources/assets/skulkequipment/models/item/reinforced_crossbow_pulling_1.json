@@ -1,0 +1,6 @@
+{
+    "parent": "skulkequipment:item/reinforced_crossbow",
+    "textures": {
+        "layer0": "skulkequipment:item/reinforced_crossbow_pulling_1"
+    }
+}

@@ -1,12 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "net.ukaye.skulkequipment.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "skulkequipmentMixin"
   ],
   "injectors": {
     "defaultRequire": 1
